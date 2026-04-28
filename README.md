@@ -2,6 +2,8 @@
 
 > Java后端开发实习生 | 电子科技大学硕士 | 热衷于分布式系统与AI应用开发
 
+[![查看动态主页](https://img.shields.io/badge/🌐-查看动态主页-21759B?style=for-the-badge&logo=netlify)](https://j1a1c1k1.github.io/guojiahao-github-profile/)
+
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=j1a1c1k1)
 ![GitHub followers](https://img.shields.io/github/followers/j1a1c1k1)
 ![GitHub stars](https://img.shields.io/github/stars/j1a1c1k1)
