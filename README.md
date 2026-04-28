@@ -1,12 +1,10 @@
-# Guo Jiahao
+# Guo Jiahao [[🌐 动态主页]](https://j1a1c1k1.github.io/guojiahao-github-profile/)
 
 > Java后端开发实习生 | 电子科技大学硕士 | 热衷于分布式系统与AI应用开发
 
 [![查看动态主页](https://img.shields.io/badge/🌐-查看动态主页-21759B?style=for-the-badge&logo=netlify)](https://j1a1c1k1.github.io/guojiahao-github-profile/)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=j1a1c1k1)
-![GitHub followers](https://img.shields.io/github/followers/j1a1c1k1)
-![GitHub stars](https://img.shields.io/github/stars/j1a1c1k1)
+
 
 ## 关于我
 
@@ -113,12 +111,6 @@
 | 💬 消息队列 | RabbitMQ异步解耦与分布式事务 |
 | 🤖 AI应用 | 大模型集成与Agent开发 |
 | 🔐 并发控制 | Redisson分布式锁解决方案 |
-
----
-
-## 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j1a1c1k1&theme=transparent&hide_border=true)
 
 ---
 
