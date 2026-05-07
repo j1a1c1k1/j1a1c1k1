@@ -1,6 +1,6 @@
-# Guo Jiahao [[📄 在线简历]](https://j1a1c1k1.github.io/resume/)
+# Guo Jiahao 
 
-> Java后端开发实习生 | 电子科技大学硕士 | 热衷于分布式系统与AI应用开发
+> Java后端开发实习生 | 电子科技大学硕士 | 热衷于后端开发与AI应用开发
 
 [![查看在线简历](https://img.shields.io/badge/📄-查看在线简历-21759B?style=for-the-badge&logo=github)](https://j1a1c1k1.github.io/resume/)
 
