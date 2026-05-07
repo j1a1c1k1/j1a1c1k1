@@ -1,8 +1,10 @@
-# Guo Jiahao [[🌐 动态主页]](https://j1a1c1k1.github.io/guojiahao-github-profile/)
+# Guo Jiahao [[📄 在线简历]](https://j1a1c1k1.github.io/resume/)
 
 > Java后端开发实习生 | 电子科技大学硕士 | 热衷于分布式系统与AI应用开发
 
-[![查看动态主页](https://img.shields.io/badge/🌐-查看动态主页-21759B?style=for-the-badge&logo=netlify)](https://j1a1c1k1.github.io/guojiahao-github-profile/)
+[![查看在线简历](https://img.shields.io/badge/📄-查看在线简历-21759B?style=for-the-badge&logo=github)](https://j1a1c1k1.github.io/resume/)
+
+
 
 
 
